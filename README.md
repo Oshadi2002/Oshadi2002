@@ -1,18 +1,93 @@
 <h1 align="center">Hi 👋, I'm Oshadi Kawshani</h1>
-<h3 align="center">A passionate Full Stack Developer from Sri Lanka</h3>
+<h3 align="center">Full-Stack Developer from Sri Lanka 🇱🇰</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=oshadi&label=Profile%20views&color=0e75b6&style=flat" alt="oshadi" /> </p>
-
-- 🌱 I’m currently learning **MIS for NAITA SIT Division**
-
-- 💬 Ask me about **Full Stack Development**
-
-- 📫 How to reach me **r.kawshani2002@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/oshadi kawshani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oshadi kawshani" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Building+modern+web+experiences;Learning+and+growing+every+day;Passionate+about+clean+and+creative+code" alt="Typing SVG" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Oshadi2002&label=Profile%20views&color=7c3aed&style=for-the-badge" alt="profile views" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/Oshadi2002">
+    <img src="https://img.shields.io/github/followers/Oshadi2002?label=Followers&style=for-the-badge&color=7c3aed" alt="followers" />
+  </a>
+  <a href="mailto:r.kawshani2002@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-informational?style=for-the-badge&color=ec4899" alt="email" />
+  </a>
+  <a href="https://www.linkedin.com/in/oshadi-kawshani-143737360/">
+    <img src="https://img.shields.io/badge/LinkedIn-Oshadi%20Kawshani-blue?style=for-the-badge&logo=linkedin" alt="linkedin" />
+  </a>
+</p>
+
+---
+
+## ✨ About Me
+
+- 🌱 Currently learning **MIS for NAITA SIT Division**
+- 💻 Interested in **Full-Stack Development**
+- 🚀 Love building **practical web applications**
+- 🎯 Focused on creating **clean, responsive, and user-friendly systems**
+- 📫 Reach me at **r.kawshani2002@gmail.com**
+
+---
+
+## 🛠️ Languages & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,php,mysql,react,nodejs,express,git,github,vscode" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🏢 NAITA MIS — SIT Division
+A system-focused project built for the **NAITA SIT Division**, showing your interest in real-world software solutions.
+
+### 🌐 My Portfolio
+A personal portfolio website to present your work, skills, and identity as a developer.
+
+### 🩺 Doctor Appointment Web Application
+A web-based appointment solution for managing doctor booking workflows.
+
+### 🌦️ Weather App
+A full-stack weather application with authentication and weather information features.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Oshadi2002&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Oshadi2002&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oshadi2002&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/oshadi-kawshani-143737360/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="mailto:r.kawshani2002@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Send%20Mail-red?style=for-the-badge&logo=gmail" alt="Gmail" />
+  </a>
+</p>
+
+---
+
+## 💫 Developer Motto
+
+<p align="center">
+  <i>"Design with purpose, build with passion, and keep learning."</i>
+</p>
